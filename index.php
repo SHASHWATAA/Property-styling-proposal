@@ -14,28 +14,6 @@
 			</ul>
 
 		</div>
-
-
-
-
-
-
-
-<!-- 		<label>Address</label>
-		<input type="text" id="Address" name="Address">
-		<label>Client Notes</label>
-		<textarea type="text area" id="Client_Notes" name="Client_Notes">Enter text here...</textarea>
-		<label>Fee</label>
-		<input type="" id="Fee" name="Fee">
-		<label>GST inc</label>
-		<input type="checkbox" id="GST" name="GST">
-		<label>Delivery</label>
-		<input type="" id="Delivery" name="Delivery">
-		<label>Weekly Hire Amount</label>
-		<input type="" id="Weekly_Hire_Amount" name="Weekly_Hire_Amount">
-		<label>Pay Options</label>
-		<input type="" id="Pay_Options" name="Pay_Options">
-		<input type="submit" value="submit"> -->
 	</form>
 </body>
 </html>
